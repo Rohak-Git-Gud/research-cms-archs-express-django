@@ -46,5 +46,5 @@ This implementation highlights the power of a standardized framework for rapid, 
 ---
 
 ## 5. Conclusion
-By completing both projects, I have demonstrated the ability to pivot between different backend ecosystems. I am comfortable managing both NoSQL and Relational databases, and I understand when to use a lightweight micro-framework (Express) versus a comprehensive enterprise framework (Django). \\
-P.S.: This README was partially AI generated. Please ignore the goof-ups or imform me about any issues by opening an issue.
+By completing both projects, I have demonstrated the ability to pivot between different backend ecosystems. I am comfortable managing both NoSQL and Relational databases, and I understand when to use a lightweight micro-framework (Express) versus a comprehensive enterprise framework (Django).  
+**P.S.:** This README was partially AI generated. Please ignore the goof-ups or imform me about any issues by opening an issue.
