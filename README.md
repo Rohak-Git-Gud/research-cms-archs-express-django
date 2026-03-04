@@ -1,5 +1,5 @@
 # Comparative Study: Backend Architecture & Implementation Parity
-**Project Focus:** Evaluating RESTful CMS Architectures using JS (Express) and Python (Django).
+**Project Focus:** Evaluating RESTful CMS Architectures using JavaScript (Express) and Python (Django).
 
 ---
 
@@ -11,8 +11,8 @@ This research project involves the parallel development of two functionally iden
 ## 2. Technical Stack Comparison
 
 | Feature | Implementation A: Express.js | Implementation B: Django |
-| :--- | :--- | :--- |
-| **Runtime / Language** | Node.js (JavaScript/ES6) | Python 3.13 |
+| ------- | ---------------------------- | ------------------------ |
+| **Runtime / Language** | Node.js (JavaScript) | Python 3.13 |
 | **Database** | MongoDB (NoSQL) via Mongoose | SQLite (Relational) via Django ORM |
 | **Authentication** | Manual JWT + `cookie-parser` | Django Built-in Auth System |
 | **Media Handling** | `multer` (Server-side storage) | Django Models (FileField/ImageField) |
