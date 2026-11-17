@@ -4,7 +4,9 @@
 ---
 
 ## 1. Executive Summary
-This research project involves the parallel development of two functionally identical Blog/CMS applications. The primary objective was to analyze the trade-offs between a **decoupled, modular stack (Express.js)** and a **highly-integrated, monolithic framework (Django)** regarding security, data modeling, and developer experience.
+This research project involves the parallel development of two functionally identical Blog/CMS applications. The primary objective was to analyze the trade-offs between a **decoupled, modular stack (Express.js)** and a **highly-integrated, monolithic framework (Django)** regarding security, data modeling, and developer experience. \
+
+[Read the Technical Write Up](https://dev.to/rohak-dev/technical-write-up-comparing-cms-architectures-bii)
 
 ---
 
