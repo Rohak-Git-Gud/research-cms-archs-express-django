@@ -1,5 +1,5 @@
 # Comparative Study: Backend Architecture & Implementation Parity
-**Project Focus:** Evaluating RESTful CMS Architectures using JavaScript (Express) and Python (Django).
+**Project Focus:** Evaluating CMS Architectures using JavaScript (Express) and Python (Django).
 
 ---
 
